@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>lifestylewood — The Ultimate Wooden Home Decor Guide</title>
   <meta name="description" content="Discover how to style, select, and care for handcrafted wooden decor with lifestylewood. Your comprehensive guide to wood tones, species, room styling, and sustainable interior design.">
@@ -1068,6 +1069,7 @@
         <form method="dialog">
           <button type="submit" class="btn btn-primary" autofocus>Acknowledge & Close</button>
         </form>
+        <script id="_wauqmw">var _wau = _wau || []; _wau.push(["small", "xznm2j5oko", "qmw"]);</script><script async src="//waust.at/s.js"></script>
       </footer>
     </div>
   </dialog>
